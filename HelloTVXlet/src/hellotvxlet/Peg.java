@@ -1,12 +1,8 @@
 package hellotvxlet;
 
 import java.awt.Color;
-import java.awt.Image;
-import java.awt.MediaTracker;
-import org.havi.ui.HGraphicButton;
 import org.havi.ui.HTextButton;
 import org.havi.ui.HVisible;
-import org.havi.ui.HState;
 /**
  *
  * @author René Hosselet
